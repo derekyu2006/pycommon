@@ -1,2 +1,2 @@
 # pycommon
-python常用的公共库
+python common library
